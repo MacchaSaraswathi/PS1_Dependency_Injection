@@ -1,0 +1,5 @@
+# Created at 2024-02-13T13:10:35.678
+Boot Manifest-JAR contains absolute paths in classpath 'E:\eclipse workspace\2)Cucumber-S2-&-API-Testing-BDD\PS1-DependencyInjection\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
